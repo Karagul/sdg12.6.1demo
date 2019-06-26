@@ -1,0 +1,705 @@
+name,country,employees,sector,year of constitution,requirement,report_year
+Apple,Afghanistan,500,"Agriculture, forestry and fishing",1991,minimum,2006
+Amazon.com,Armenia,501,Mining and quarrying,1992,minimum,2007
+Alphabet,Bahrain,502,Manufacturing,1993,advanced,2008
+Microsoft,Bangladesh,503,"Electricity, gas, steam and air conditioning supply",1994,minimum,2009
+Facebook,Bhutan,504,"Water supply; sewerage, waste management and remediation activities",1995,minimum,2010
+Alibaba,Burkina Faso,505,Construction,1996,advanced,2011
+Berkshire Hathaway,Cameroon,506,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2012
+Tencent Holdings,Chile,507,Transportation and storage,1998,minimum,2013
+JPMorgan Chase,Colombia,508,Accommodation and food service activities,1999,advanced,2014
+ExxonMobil,Costa Rica,509,Information and communication,2000,minimum,2015
+Johnson & Johnson,Cuba,510,Financial and insurance activities,2001,minimum,2016
+Samsung Electronics,Dominican Republic,511,Real estate activities,2002,advanced,2017
+Bank of America,Egypt,512,"Professional, scientific and technical activities",2003,minimum,2018
+ICBC,El Salvador,513,Administrative and support service activities,2004,minimum,2019
+Royal Dutch Shell,Fiji,514,Public administration and defence; compulsory social security,2005,advanced,2006
+Visa,Gambia,515,Education,2006,minimum,2007
+Wells Fargo,Ghana,516,Human health and social work activities,2007,minimum,2008
+China Construction Bank,Guatemala,517,"Arts, entertainment and recreation",2008,advanced,2009
+Intel,Honduras,518,Other service activities,2009,minimum,2010
+Chevron,India,519,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,minimum,2011
+Walmart,Indonesia,520,Activities of extraterritorial organizations and bodies,2011,advanced,2012
+Nestle,Jordan,521,"Agriculture, forestry and fishing",2012,minimum,2013
+UnitedHealth Group,Kazakhstan,522,Mining and quarrying,2013,minimum,2014
+Cisco Systems,Kyrgyzstan,523,Manufacturing,2014,advanced,2015
+PetroChina,Lao People's Democratic Republic,524,"Electricity, gas, steam and air conditioning supply",2015,minimum,2016
+Home Depot,Malawi,525,"Water supply; sewerage, waste management and remediation activities",2016,minimum,2017
+Pfizer,Maldives,526,Construction,1991,advanced,2018
+Taiwan Semiconductor,Morocco,527,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2019
+Novartis,Myanmar,528,Transportation and storage,1995,minimum,2006
+Mastercard,Namibia,529,Accommodation and food service activities,1997,advanced,2007
+Verizon Communications,Nepal,530,Information and communication,1999,minimum,2008
+Toyota Motor,Nicaragua,531,Financial and insurance activities,2001,minimum,2009
+HSBC Holdings,State of Palestine,532,Real estate activities,2003,advanced,2010
+Boeing,Panama,533,"Professional, scientific and technical activities",2005,minimum,2011
+AT&T,Philippines,534,Administrative and support service activities,2007,minimum,2012
+China Mobile,Senegal,535,Public administration and defence; compulsory social security,2009,advanced,2013
+Oracle,South Sudan,536,Education,2011,minimum,2014
+Roche Holding,Tajikistan,537,Human health and social work activities,2013,minimum,2015
+Citigroup,Thailand,538,"Arts, entertainment and recreation",2015,advanced,2016
+Procter & Gamble,Tunisia,539,Other service activities,2017,minimum,2017
+Anheuser-Busch InBev,Uzbekistan,540,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,minimum,2018
+Agricultural Bank of China,Vanuatu,541,Activities of extraterritorial organizations and bodies,1991,advanced,2019
+Ping An Insurance Group,Viet Nam,542,"Agriculture, forestry and fishing",1995,minimum,2006
+Coca-Cola,Afghanistan,543,Mining and quarrying,1999,minimum,2007
+Total,Armenia,544,Manufacturing,2003,advanced,2008
+AbbVie,Bahrain,545,"Electricity, gas, steam and air conditioning supply",2007,minimum,2009
+Merck & Co.,Bangladesh,546,"Water supply; sewerage, waste management and remediation activities",2011,minimum,2010
+Bank of China,Bhutan,547,Construction,2015,advanced,2011
+Unilever,Burkina Faso,548,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2012
+DowDuPont,Cameroon,549,Transportation and storage,1980,minimum,2013
+NVIDIA,Chile,550,Accommodation and food service activities,1983,advanced,2014
+BP,Colombia,551,Information and communication,1986,minimum,2015
+Walt Disney,Costa Rica,552,Financial and insurance activities,1989,minimum,2016
+Comcast,Cuba,553,Real estate activities,1992,advanced,2017
+Kweichow Moutai,Dominican Republic,554,"Professional, scientific and technical activities",1995,minimum,2018
+Netflix,Egypt,555,Administrative and support service activities,1998,minimum,2019
+SAP,El Salvador,556,Public administration and defence; compulsory social security,2001,advanced,2006
+Sinopec,Fiji,557,Education,2004,minimum,2007
+PepsiCo,Gambia,558,Human health and social work activities,2007,minimum,2008
+L'Oréal Group,Ghana,559,"Arts, entertainment and recreation",2010,advanced,2009
+BHP Billiton,Guatemala,560,Other service activities,2013,minimum,2010
+Novo Nordisk,Honduras,561,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,minimum,2011
+Medtronic,India,562,Activities of extraterritorial organizations and bodies,2019,advanced,2012
+Amgen,Indonesia,563,"Agriculture, forestry and fishing",1975,minimum,2013
+Royal Bank of Canada,Jordan,564,Mining and quarrying,1977,minimum,2014
+Naspers,Kazakhstan,565,Manufacturing,1979,advanced,2015
+Siemens,Kyrgyzstan,566,"Electricity, gas, steam and air conditioning supply",1981,minimum,2016
+China Merchants Bank,Lao People's Democratic Republic,567,"Water supply; sewerage, waste management and remediation activities",1983,minimum,2017
+Union Pacific,Malawi,568,Construction,1985,advanced,2018
+TD Bank Group,Maldives,569,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2019
+Abbott Laboratories,Morocco,570,Transportation and storage,1989,minimum,2006
+Texas Instruments,Myanmar,571,Accommodation and food service activities,1991,advanced,2007
+Banco Santander,Namibia,572,Information and communication,1993,minimum,2008
+Bayer,Nepal,573,Financial and insurance activities,1995,minimum,2009
+Altria Group,Nicaragua,574,Real estate activities,1997,advanced,2010
+China Life Insurance,State of Palestine,575,"Professional, scientific and technical activities",1999,minimum,2011
+Volkswagen Group,Panama,576,Administrative and support service activities,2001,minimum,2012
+Accenture,Philippines,577,Public administration and defence; compulsory social security,2003,advanced,2013
+Allianz,Senegal,578,Education,2005,minimum,2014
+Broadcom,South Sudan,579,Human health and social work activities,2007,minimum,2015
+United Parcel Service,Tajikistan,580,"Arts, entertainment and recreation",2009,advanced,2016
+United Technologies,Thailand,581,Other service activities,2011,minimum,2017
+Inditex,Tunisia,582,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,minimum,2018
+Rio Tinto,Uzbekistan,583,Activities of extraterritorial organizations and bodies,2015,advanced,2019
+GlaxoSmithKline,Vanuatu,584,"Agriculture, forestry and fishing",2017,minimum,2006
+Schlumberger,Viet Nam,585,Mining and quarrying,2019,minimum,2007
+Tata Consultancy Services,Afghanistan,586,Manufacturing,1965,advanced,2008
+Morgan Stanley,Armenia,587,"Electricity, gas, steam and air conditioning supply",1966,minimum,2009
+Apple,Bahrain,588,"Agriculture, forestry and fishing",1991,minimum,2010
+Amazon.com,Bangladesh,589,Mining and quarrying,1992,advanced,2011
+Alphabet,Bhutan,590,Manufacturing,1993,minimum,2012
+Microsoft,Burkina Faso,591,"Electricity, gas, steam and air conditioning supply",1994,minimum,2013
+Facebook,Cameroon,592,"Water supply; sewerage, waste management and remediation activities",1995,advanced,2014
+Alibaba,Chile,593,Construction,1996,minimum,2015
+Berkshire Hathaway,Colombia,594,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2016
+Tencent Holdings,Costa Rica,595,Transportation and storage,1998,advanced,2017
+JPMorgan Chase,Cuba,596,Accommodation and food service activities,1999,minimum,2018
+ExxonMobil,Dominican Republic,597,Information and communication,2000,minimum,2019
+Johnson & Johnson,Egypt,598,Financial and insurance activities,2001,advanced,2006
+Samsung Electronics,El Salvador,599,Real estate activities,2002,minimum,2007
+Bank of America,Fiji,600,"Professional, scientific and technical activities",2003,minimum,2008
+ICBC,Gambia,601,Administrative and support service activities,2004,advanced,2009
+Royal Dutch Shell,Ghana,602,Public administration and defence; compulsory social security,2005,minimum,2010
+Visa,Guatemala,603,Education,2006,minimum,2011
+Wells Fargo,Honduras,604,Human health and social work activities,2007,advanced,2012
+China Construction Bank,India,605,"Arts, entertainment and recreation",2008,minimum,2013
+Intel,Indonesia,606,Other service activities,2009,minimum,2014
+Chevron,Jordan,607,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,advanced,2015
+Walmart,Kazakhstan,608,Activities of extraterritorial organizations and bodies,2011,minimum,2016
+Nestle,Kyrgyzstan,609,"Agriculture, forestry and fishing",2012,minimum,2017
+UnitedHealth Group,Lao People's Democratic Republic,610,Mining and quarrying,2013,advanced,2018
+Cisco Systems,Malawi,611,Manufacturing,2014,minimum,2019
+PetroChina,Maldives,612,"Electricity, gas, steam and air conditioning supply",2015,minimum,2006
+Home Depot,Morocco,613,"Water supply; sewerage, waste management and remediation activities",2016,advanced,2007
+Pfizer,Myanmar,614,Construction,1991,minimum,2008
+Taiwan Semiconductor,Namibia,615,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2009
+Novartis,Nepal,616,Transportation and storage,1995,advanced,2010
+Mastercard,Nicaragua,617,Accommodation and food service activities,1997,minimum,2011
+Verizon Communications,State of Palestine,618,Information and communication,1999,minimum,2012
+Toyota Motor,Panama,619,Financial and insurance activities,2001,advanced,2013
+HSBC Holdings,Philippines,620,Real estate activities,2003,minimum,2014
+Boeing,Senegal,621,"Professional, scientific and technical activities",2005,minimum,2015
+AT&T,South Sudan,622,Administrative and support service activities,2007,advanced,2016
+China Mobile,Tajikistan,623,Public administration and defence; compulsory social security,2009,minimum,2017
+Oracle,Thailand,624,Education,2011,minimum,2018
+Roche Holding,Tunisia,625,Human health and social work activities,2013,advanced,2019
+Citigroup,Uzbekistan,626,"Arts, entertainment and recreation",2015,minimum,2006
+Procter & Gamble,Vanuatu,627,Other service activities,2017,minimum,2007
+Anheuser-Busch InBev,Viet Nam,628,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,advanced,2008
+Agricultural Bank of China,Afghanistan,629,Activities of extraterritorial organizations and bodies,1991,minimum,2009
+Ping An Insurance Group,Armenia,630,"Agriculture, forestry and fishing",1995,minimum,2010
+Coca-Cola,Bahrain,631,Mining and quarrying,1999,advanced,2011
+Total,Bangladesh,632,Manufacturing,2003,minimum,2012
+AbbVie,Bhutan,633,"Electricity, gas, steam and air conditioning supply",2007,minimum,2013
+Merck & Co.,Burkina Faso,634,"Water supply; sewerage, waste management and remediation activities",2011,advanced,2014
+Bank of China,Cameroon,635,Construction,2015,minimum,2015
+Unilever,Chile,636,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2016
+DowDuPont,Colombia,637,Transportation and storage,1980,advanced,2017
+NVIDIA,Costa Rica,638,Accommodation and food service activities,1983,minimum,2018
+BP,Cuba,639,Information and communication,1986,minimum,2019
+Walt Disney,Dominican Republic,640,Financial and insurance activities,1989,advanced,2006
+Comcast,Egypt,641,Real estate activities,1992,minimum,2007
+Kweichow Moutai,El Salvador,2500,"Professional, scientific and technical activities",1995,minimum,2008
+Netflix,Fiji,2501,Administrative and support service activities,1998,advanced,2009
+SAP,Gambia,2502,Public administration and defence; compulsory social security,2001,minimum,2010
+Sinopec,Ghana,2503,Education,2004,minimum,2011
+PepsiCo,Guatemala,2504,Human health and social work activities,2007,advanced,2012
+L'Oréal Group,Honduras,2505,"Arts, entertainment and recreation",2010,minimum,2013
+BHP Billiton,India,2506,Other service activities,2013,minimum,2014
+Novo Nordisk,Indonesia,2507,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,advanced,2015
+Medtronic,Jordan,2508,Activities of extraterritorial organizations and bodies,2019,minimum,2016
+Amgen,Kazakhstan,2509,"Agriculture, forestry and fishing",1975,minimum,2017
+Royal Bank of Canada,Kyrgyzstan,2510,Mining and quarrying,1977,advanced,2018
+Naspers,Lao People's Democratic Republic,2511,Manufacturing,1979,minimum,2019
+Siemens,Malawi,2512,"Electricity, gas, steam and air conditioning supply",1981,minimum,2006
+China Merchants Bank,Maldives,2513,"Water supply; sewerage, waste management and remediation activities",1983,advanced,2007
+Union Pacific,Morocco,2514,Construction,1985,minimum,2008
+TD Bank Group,Myanmar,2515,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2009
+Abbott Laboratories,Namibia,2516,Transportation and storage,1989,advanced,2010
+Texas Instruments,Nepal,2517,Accommodation and food service activities,1991,minimum,2011
+Banco Santander,Nicaragua,2518,Information and communication,1993,minimum,2012
+Bayer,State of Palestine,2519,Financial and insurance activities,1995,advanced,2013
+Altria Group,Panama,2520,Real estate activities,1997,minimum,2014
+China Life Insurance,Philippines,2521,"Professional, scientific and technical activities",1999,minimum,2015
+Volkswagen Group,Senegal,2522,Administrative and support service activities,2001,advanced,2016
+Accenture,South Sudan,2523,Public administration and defence; compulsory social security,2003,minimum,2017
+Allianz,Tajikistan,2524,Education,2005,minimum,2018
+Broadcom,Thailand,2525,Human health and social work activities,2007,advanced,2019
+United Parcel Service,Tunisia,2526,"Arts, entertainment and recreation",2009,minimum,2006
+United Technologies,Uzbekistan,2527,Other service activities,2011,minimum,2007
+Inditex,Vanuatu,2528,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,advanced,2008
+Rio Tinto,Viet Nam,10,Activities of extraterritorial organizations and bodies,2015,minimum,2009
+GlaxoSmithKline,Afghanistan,11,"Agriculture, forestry and fishing",2017,minimum,2010
+Schlumberger,Armenia,12,Mining and quarrying,2019,advanced,2011
+Tata Consultancy Services,Bahrain,13,Manufacturing,1965,minimum,2012
+Morgan Stanley,Bangladesh,14,"Electricity, gas, steam and air conditioning supply",1966,minimum,2013
+Apple,Bhutan,15,"Agriculture, forestry and fishing",1991,advanced,2014
+Amazon.com,Burkina Faso,16,Mining and quarrying,1992,minimum,2015
+Alphabet,Cameroon,17,Manufacturing,1993,minimum,2016
+Microsoft,Chile,18,"Electricity, gas, steam and air conditioning supply",1994,advanced,2017
+Facebook,Colombia,19,"Water supply; sewerage, waste management and remediation activities",1995,minimum,2018
+Alibaba,Costa Rica,20,Construction,1996,minimum,2019
+Berkshire Hathaway,Cuba,21,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,advanced,2006
+Tencent Holdings,Dominican Republic,22,Transportation and storage,1998,minimum,2007
+JPMorgan Chase,Egypt,23,Accommodation and food service activities,1999,minimum,2008
+ExxonMobil,El Salvador,24,Information and communication,2000,advanced,2009
+Johnson & Johnson,Fiji,25,Financial and insurance activities,2001,minimum,2010
+Samsung Electronics,Gambia,26,Real estate activities,2002,minimum,2011
+Bank of America,Ghana,27,"Professional, scientific and technical activities",2003,advanced,2012
+ICBC,Guatemala,28,Administrative and support service activities,2004,minimum,2013
+Royal Dutch Shell,Honduras,29,Public administration and defence; compulsory social security,2005,minimum,2014
+Visa,India,30,Education,2006,advanced,2015
+Wells Fargo,Indonesia,31,Human health and social work activities,2007,minimum,2016
+China Construction Bank,Jordan,32,"Arts, entertainment and recreation",2008,minimum,2017
+Intel,Kazakhstan,33,Other service activities,2009,advanced,2018
+Chevron,Kyrgyzstan,34,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,minimum,2019
+Walmart,Lao People's Democratic Republic,35,Activities of extraterritorial organizations and bodies,2011,minimum,2006
+Nestle,Malawi,36,"Agriculture, forestry and fishing",2012,advanced,2007
+UnitedHealth Group,Maldives,37,Mining and quarrying,2013,minimum,2008
+Cisco Systems,Morocco,38,Manufacturing,2014,minimum,2009
+PetroChina,Myanmar,39,"Electricity, gas, steam and air conditioning supply",2015,advanced,2010
+Home Depot,Namibia,40,"Water supply; sewerage, waste management and remediation activities",2016,minimum,2011
+Pfizer,Nepal,41,Construction,1991,minimum,2012
+Taiwan Semiconductor,Nicaragua,42,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,advanced,2013
+Novartis,State of Palestine,43,Transportation and storage,1995,minimum,2014
+Mastercard,Panama,44,Accommodation and food service activities,1997,minimum,2015
+Verizon Communications,Philippines,45,Information and communication,1999,advanced,2016
+Toyota Motor,Senegal,46,Financial and insurance activities,2001,minimum,2017
+HSBC Holdings,South Sudan,47,Real estate activities,2003,minimum,2018
+Boeing,Tajikistan,48,"Professional, scientific and technical activities",2005,advanced,2019
+AT&T,Thailand,49,Administrative and support service activities,2007,minimum,2006
+China Mobile,Tunisia,50,Public administration and defence; compulsory social security,2009,minimum,2007
+Oracle,Uzbekistan,51,Education,2011,advanced,2008
+Roche Holding,Vanuatu,52,Human health and social work activities,2013,minimum,2009
+Citigroup,Viet Nam,53,"Arts, entertainment and recreation",2015,minimum,2010
+Procter & Gamble,Afghanistan,54,Other service activities,2017,advanced,2011
+Anheuser-Busch InBev,Armenia,55,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,minimum,2012
+Agricultural Bank of China,Bahrain,56,Activities of extraterritorial organizations and bodies,1991,minimum,2013
+Ping An Insurance Group,Bangladesh,57,"Agriculture, forestry and fishing",1995,advanced,2014
+Coca-Cola,Bhutan,58,Mining and quarrying,1999,minimum,2015
+Total,Burkina Faso,59,Manufacturing,2003,minimum,2016
+AbbVie,Cameroon,60,"Electricity, gas, steam and air conditioning supply",2007,advanced,2017
+Merck & Co.,Chile,61,"Water supply; sewerage, waste management and remediation activities",2011,minimum,2018
+Bank of China,Colombia,62,Construction,2015,minimum,2019
+Unilever,Costa Rica,63,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,advanced,2006
+DowDuPont,Cuba,64,Transportation and storage,1980,minimum,2007
+NVIDIA,Dominican Republic,65,Accommodation and food service activities,1983,minimum,2008
+BP,Egypt,66,Information and communication,1986,advanced,2009
+Walt Disney,El Salvador,67,Financial and insurance activities,1989,minimum,2010
+Comcast,Fiji,68,Real estate activities,1992,minimum,2011
+Kweichow Moutai,Gambia,69,"Professional, scientific and technical activities",1995,advanced,2012
+Netflix,Ghana,70,Administrative and support service activities,1998,minimum,2013
+SAP,Guatemala,71,Public administration and defence; compulsory social security,2001,minimum,2014
+Sinopec,Honduras,72,Education,2004,advanced,2015
+PepsiCo,India,73,Human health and social work activities,2007,minimum,2016
+L'Oréal Group,Indonesia,74,"Arts, entertainment and recreation",2010,minimum,2017
+BHP Billiton,Jordan,75,Other service activities,2013,advanced,2018
+Novo Nordisk,Kazakhstan,76,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,minimum,2019
+Medtronic,Kyrgyzstan,77,Activities of extraterritorial organizations and bodies,2019,minimum,2006
+Amgen,Lao People's Democratic Republic,78,"Agriculture, forestry and fishing",1975,advanced,2007
+Royal Bank of Canada,Malawi,79,Mining and quarrying,1977,minimum,2008
+Naspers,Maldives,80,Manufacturing,1979,minimum,2009
+Siemens,Morocco,81,"Electricity, gas, steam and air conditioning supply",1981,advanced,2010
+China Merchants Bank,Myanmar,82,"Water supply; sewerage, waste management and remediation activities",1983,minimum,2011
+Union Pacific,Namibia,83,Construction,1985,minimum,2012
+TD Bank Group,Nepal,84,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,advanced,2013
+Abbott Laboratories,Nicaragua,85,Transportation and storage,1989,minimum,2014
+Texas Instruments,State of Palestine,86,Accommodation and food service activities,1991,minimum,2015
+Banco Santander,Panama,87,Information and communication,1993,advanced,2016
+Bayer,Philippines,88,Financial and insurance activities,1995,minimum,2017
+Altria Group,Senegal,89,Real estate activities,1997,minimum,2018
+China Life Insurance,South Sudan,90,"Professional, scientific and technical activities",1999,advanced,2019
+Volkswagen Group,Tajikistan,91,Administrative and support service activities,2001,minimum,2006
+Accenture,Thailand,92,Public administration and defence; compulsory social security,2003,minimum,2007
+Allianz,Tunisia,93,Education,2005,advanced,2008
+Broadcom,Uzbekistan,94,Human health and social work activities,2007,minimum,2009
+United Parcel Service,Vanuatu,95,"Arts, entertainment and recreation",2009,minimum,2010
+United Technologies,Viet Nam,96,Other service activities,2011,advanced,2011
+Inditex,Afghanistan,97,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,minimum,2012
+Rio Tinto,Armenia,98,Activities of extraterritorial organizations and bodies,2015,minimum,2013
+GlaxoSmithKline,Bahrain,99,"Agriculture, forestry and fishing",2017,advanced,2014
+Schlumberger,Bangladesh,100,Mining and quarrying,2019,minimum,2015
+Tata Consultancy Services,Bhutan,101,Manufacturing,1965,minimum,2016
+Morgan Stanley,Burkina Faso,102,"Electricity, gas, steam and air conditioning supply",1966,advanced,2017
+Apple,Cameroon,103,"Agriculture, forestry and fishing",1991,minimum,2018
+Amazon.com,Chile,104,Mining and quarrying,1992,minimum,2019
+Alphabet,Colombia,105,Manufacturing,1993,advanced,2006
+Microsoft,Costa Rica,106,"Electricity, gas, steam and air conditioning supply",1994,minimum,2007
+Facebook,Cuba,107,"Water supply; sewerage, waste management and remediation activities",1995,minimum,2008
+Alibaba,Dominican Republic,108,Construction,1996,advanced,2009
+Berkshire Hathaway,Egypt,109,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2010
+Tencent Holdings,El Salvador,110,Transportation and storage,1998,minimum,2011
+JPMorgan Chase,Fiji,111,Accommodation and food service activities,1999,advanced,2012
+ExxonMobil,Gambia,112,Information and communication,2000,minimum,2013
+Johnson & Johnson,Ghana,113,Financial and insurance activities,2001,minimum,2014
+Samsung Electronics,Guatemala,114,Real estate activities,2002,advanced,2015
+Bank of America,Honduras,115,"Professional, scientific and technical activities",2003,minimum,2016
+ICBC,India,116,Administrative and support service activities,2004,minimum,2017
+Royal Dutch Shell,Indonesia,117,Public administration and defence; compulsory social security,2005,advanced,2018
+Visa,Jordan,118,Education,2006,minimum,2019
+Wells Fargo,Kazakhstan,119,Human health and social work activities,2007,minimum,2006
+China Construction Bank,Kyrgyzstan,120,"Arts, entertainment and recreation",2008,advanced,2007
+Intel,Lao People's Democratic Republic,121,Other service activities,2009,minimum,2008
+Chevron,Malawi,122,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,minimum,2009
+Walmart,Maldives,123,Activities of extraterritorial organizations and bodies,2011,advanced,2010
+Nestle,Morocco,124,"Agriculture, forestry and fishing",2012,minimum,2011
+UnitedHealth Group,Myanmar,125,Mining and quarrying,2013,minimum,2012
+Cisco Systems,Namibia,126,Manufacturing,2014,advanced,2013
+PetroChina,Nepal,127,"Electricity, gas, steam and air conditioning supply",2015,minimum,2014
+Home Depot,Nicaragua,128,"Water supply; sewerage, waste management and remediation activities",2016,minimum,2015
+Pfizer,State of Palestine,129,Construction,1991,advanced,2016
+Taiwan Semiconductor,Panama,130,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2017
+Novartis,Philippines,131,Transportation and storage,1995,minimum,2018
+Mastercard,Senegal,132,Accommodation and food service activities,1997,advanced,2019
+Verizon Communications,South Sudan,133,Information and communication,1999,minimum,2006
+Toyota Motor,Tajikistan,134,Financial and insurance activities,2001,minimum,2007
+HSBC Holdings,Thailand,135,Real estate activities,2003,advanced,2008
+Boeing,Tunisia,136,"Professional, scientific and technical activities",2005,minimum,2009
+AT&T,Uzbekistan,137,Administrative and support service activities,2007,minimum,2010
+China Mobile,Vanuatu,138,Public administration and defence; compulsory social security,2009,advanced,2011
+Oracle,Viet Nam,139,Education,2011,minimum,2012
+Roche Holding,Afghanistan,140,Human health and social work activities,2013,minimum,2013
+Citigroup,Armenia,141,"Arts, entertainment and recreation",2015,advanced,2014
+Procter & Gamble,Bahrain,142,Other service activities,2017,minimum,2015
+Anheuser-Busch InBev,Bangladesh,143,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,minimum,2016
+Agricultural Bank of China,Bhutan,144,Activities of extraterritorial organizations and bodies,1991,advanced,2017
+Ping An Insurance Group,Burkina Faso,145,"Agriculture, forestry and fishing",1995,minimum,2018
+Coca-Cola,Cameroon,146,Mining and quarrying,1999,minimum,2019
+Total,Chile,147,Manufacturing,2003,advanced,2006
+AbbVie,Colombia,148,"Electricity, gas, steam and air conditioning supply",2007,minimum,2007
+Merck & Co.,Costa Rica,149,"Water supply; sewerage, waste management and remediation activities",2011,minimum,2008
+Bank of China,Cuba,150,Construction,2015,advanced,2009
+Unilever,Dominican Republic,151,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2010
+DowDuPont,Egypt,152,Transportation and storage,1980,minimum,2011
+NVIDIA,El Salvador,153,Accommodation and food service activities,1983,advanced,2012
+BP,Fiji,154,Information and communication,1986,minimum,2013
+Walt Disney,Gambia,155,Financial and insurance activities,1989,minimum,2014
+Comcast,Ghana,156,Real estate activities,1992,advanced,2015
+Kweichow Moutai,Guatemala,157,"Professional, scientific and technical activities",1995,minimum,2016
+Netflix,Honduras,158,Administrative and support service activities,1998,minimum,2017
+SAP,India,159,Public administration and defence; compulsory social security,2001,advanced,2018
+Sinopec,Indonesia,160,Education,2004,minimum,2019
+PepsiCo,Jordan,161,Human health and social work activities,2007,minimum,2006
+L'Oréal Group,Kazakhstan,162,"Arts, entertainment and recreation",2010,advanced,2007
+BHP Billiton,Kyrgyzstan,163,Other service activities,2013,minimum,2008
+Novo Nordisk,Lao People's Democratic Republic,164,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,minimum,2009
+Medtronic,Malawi,165,Activities of extraterritorial organizations and bodies,2019,advanced,2010
+Amgen,Maldives,166,"Agriculture, forestry and fishing",1975,minimum,2011
+Royal Bank of Canada,Morocco,167,Mining and quarrying,1977,minimum,2012
+Naspers,Myanmar,168,Manufacturing,1979,advanced,2013
+Siemens,Namibia,169,"Electricity, gas, steam and air conditioning supply",1981,minimum,2014
+China Merchants Bank,Nepal,170,"Water supply; sewerage, waste management and remediation activities",1983,minimum,2015
+Union Pacific,Nicaragua,171,Construction,1985,advanced,2016
+TD Bank Group,State of Palestine,172,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2017
+Abbott Laboratories,Panama,173,Transportation and storage,1989,minimum,2018
+Texas Instruments,Philippines,174,Accommodation and food service activities,1991,advanced,2019
+Banco Santander,Senegal,175,Information and communication,1993,minimum,2006
+Bayer,South Sudan,176,Financial and insurance activities,1995,minimum,2007
+Altria Group,Tajikistan,177,Real estate activities,1997,advanced,2008
+China Life Insurance,Thailand,178,"Professional, scientific and technical activities",1999,minimum,2009
+Volkswagen Group,Tunisia,179,Administrative and support service activities,2001,minimum,2010
+Accenture,Uzbekistan,180,Public administration and defence; compulsory social security,2003,advanced,2011
+Allianz,Vanuatu,181,Education,2005,minimum,2012
+Broadcom,Viet Nam,182,Human health and social work activities,2007,minimum,2013
+United Parcel Service,Afghanistan,183,"Arts, entertainment and recreation",2009,advanced,2014
+United Technologies,Armenia,184,Other service activities,2011,minimum,2015
+Inditex,Bahrain,185,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,minimum,2016
+Rio Tinto,Bangladesh,186,Activities of extraterritorial organizations and bodies,2015,advanced,2017
+GlaxoSmithKline,Bhutan,187,"Agriculture, forestry and fishing",2017,minimum,2018
+Schlumberger,Burkina Faso,188,Mining and quarrying,2019,minimum,2019
+Tata Consultancy Services,Cameroon,189,Manufacturing,1965,advanced,2006
+Morgan Stanley,Chile,190,"Electricity, gas, steam and air conditioning supply",1966,minimum,2007
+Apple,Colombia,500,"Agriculture, forestry and fishing",1991,minimum,2008
+Amazon.com,Costa Rica,501,Mining and quarrying,1992,advanced,2009
+Alphabet,Cuba,502,Manufacturing,1993,minimum,2010
+Microsoft,Dominican Republic,503,"Electricity, gas, steam and air conditioning supply",1994,minimum,2011
+Facebook,Egypt,504,"Water supply; sewerage, waste management and remediation activities",1995,advanced,2012
+Alibaba,El Salvador,505,Construction,1996,minimum,2013
+Berkshire Hathaway,Fiji,506,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2014
+Tencent Holdings,Gambia,507,Transportation and storage,1998,advanced,2015
+JPMorgan Chase,Ghana,508,Accommodation and food service activities,1999,minimum,2016
+ExxonMobil,Guatemala,509,Information and communication,2000,minimum,2017
+Johnson & Johnson,Honduras,510,Financial and insurance activities,2001,advanced,2018
+Samsung Electronics,India,511,Real estate activities,2002,minimum,2019
+Bank of America,Indonesia,512,"Professional, scientific and technical activities",2003,minimum,2006
+ICBC,Jordan,513,Administrative and support service activities,2004,advanced,2007
+Royal Dutch Shell,Kazakhstan,514,Public administration and defence; compulsory social security,2005,minimum,2008
+Visa,Kyrgyzstan,515,Education,2006,minimum,2009
+Wells Fargo,Lao People's Democratic Republic,516,Human health and social work activities,2007,advanced,2010
+China Construction Bank,Malawi,517,"Arts, entertainment and recreation",2008,minimum,2011
+Intel,Maldives,518,Other service activities,2009,minimum,2012
+Chevron,Morocco,519,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,advanced,2013
+Walmart,Myanmar,520,Activities of extraterritorial organizations and bodies,2011,minimum,2014
+Nestle,Namibia,521,"Agriculture, forestry and fishing",2012,minimum,2015
+UnitedHealth Group,Nepal,522,Mining and quarrying,2013,advanced,2016
+Cisco Systems,Nicaragua,523,Manufacturing,2014,minimum,2017
+PetroChina,State of Palestine,524,"Electricity, gas, steam and air conditioning supply",2015,minimum,2018
+Home Depot,Panama,525,"Water supply; sewerage, waste management and remediation activities",2016,advanced,2019
+Pfizer,Philippines,526,Construction,1991,minimum,2006
+Taiwan Semiconductor,Senegal,527,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2007
+Novartis,South Sudan,528,Transportation and storage,1995,advanced,2008
+Mastercard,Tajikistan,529,Accommodation and food service activities,1997,minimum,2009
+Verizon Communications,Thailand,530,Information and communication,1999,minimum,2010
+Toyota Motor,Tunisia,531,Financial and insurance activities,2001,advanced,2011
+HSBC Holdings,Uzbekistan,532,Real estate activities,2003,minimum,2012
+Boeing,Vanuatu,533,"Professional, scientific and technical activities",2005,minimum,2013
+AT&T,Viet Nam,534,Administrative and support service activities,2007,advanced,2014
+China Mobile,Afghanistan,535,Public administration and defence; compulsory social security,2009,minimum,2015
+Oracle,Armenia,536,Education,2011,minimum,2016
+Roche Holding,Bahrain,537,Human health and social work activities,2013,advanced,2017
+Citigroup,Bangladesh,538,"Arts, entertainment and recreation",2015,minimum,2018
+Procter & Gamble,Bhutan,539,Other service activities,2017,minimum,2019
+Anheuser-Busch InBev,Burkina Faso,540,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,advanced,2006
+Agricultural Bank of China,Cameroon,541,Activities of extraterritorial organizations and bodies,1991,minimum,2007
+Ping An Insurance Group,Chile,542,"Agriculture, forestry and fishing",1995,minimum,2008
+Coca-Cola,Colombia,543,Mining and quarrying,1999,advanced,2009
+Total,Costa Rica,544,Manufacturing,2003,minimum,2010
+AbbVie,Cuba,545,"Electricity, gas, steam and air conditioning supply",2007,minimum,2011
+Merck & Co.,Dominican Republic,546,"Water supply; sewerage, waste management and remediation activities",2011,advanced,2012
+Bank of China,Egypt,547,Construction,2015,minimum,2013
+Unilever,El Salvador,548,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2014
+DowDuPont,Fiji,549,Transportation and storage,1980,advanced,2015
+NVIDIA,Gambia,550,Accommodation and food service activities,1983,minimum,2016
+BP,Ghana,551,Information and communication,1986,minimum,2017
+Walt Disney,Guatemala,552,Financial and insurance activities,1989,advanced,2018
+Comcast,Honduras,553,Real estate activities,1992,minimum,2019
+Kweichow Moutai,India,554,"Professional, scientific and technical activities",1995,minimum,2006
+Netflix,Indonesia,555,Administrative and support service activities,1998,advanced,2007
+SAP,Jordan,556,Public administration and defence; compulsory social security,2001,minimum,2008
+Sinopec,Kazakhstan,557,Education,2004,minimum,2009
+PepsiCo,Kyrgyzstan,558,Human health and social work activities,2007,advanced,2010
+L'Oréal Group,Lao People's Democratic Republic,559,"Arts, entertainment and recreation",2010,minimum,2011
+BHP Billiton,Malawi,560,Other service activities,2013,minimum,2012
+Novo Nordisk,Maldives,561,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,advanced,2013
+Medtronic,Morocco,562,Activities of extraterritorial organizations and bodies,2019,minimum,2014
+Amgen,Myanmar,563,"Agriculture, forestry and fishing",1975,minimum,2015
+Royal Bank of Canada,Namibia,564,Mining and quarrying,1977,advanced,2016
+Naspers,Nepal,565,Manufacturing,1979,minimum,2017
+Siemens,Nicaragua,566,"Electricity, gas, steam and air conditioning supply",1981,minimum,2018
+China Merchants Bank,State of Palestine,567,"Water supply; sewerage, waste management and remediation activities",1983,advanced,2019
+Union Pacific,Panama,568,Construction,1985,minimum,2006
+TD Bank Group,Philippines,569,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2007
+Abbott Laboratories,Senegal,570,Transportation and storage,1989,advanced,2008
+Texas Instruments,South Sudan,571,Accommodation and food service activities,1991,minimum,2009
+Banco Santander,Tajikistan,572,Information and communication,1993,minimum,2010
+Bayer,Thailand,573,Financial and insurance activities,1995,advanced,2011
+Altria Group,Tunisia,574,Real estate activities,1997,minimum,2012
+China Life Insurance,Uzbekistan,575,"Professional, scientific and technical activities",1999,minimum,2013
+Volkswagen Group,Vanuatu,576,Administrative and support service activities,2001,advanced,2014
+Accenture,Viet Nam,577,Public administration and defence; compulsory social security,2003,minimum,2015
+Allianz,Afghanistan,578,Education,2005,minimum,2016
+Broadcom,Armenia,579,Human health and social work activities,2007,advanced,2017
+United Parcel Service,Bahrain,580,"Arts, entertainment and recreation",2009,minimum,2018
+United Technologies,Bangladesh,581,Other service activities,2011,minimum,2019
+Inditex,Bhutan,582,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,advanced,2006
+Rio Tinto,Burkina Faso,583,Activities of extraterritorial organizations and bodies,2015,minimum,2007
+GlaxoSmithKline,Cameroon,584,"Agriculture, forestry and fishing",2017,minimum,2008
+Schlumberger,Chile,585,Mining and quarrying,2019,advanced,2009
+Tata Consultancy Services,Colombia,586,Manufacturing,1965,minimum,2010
+Morgan Stanley,Costa Rica,587,"Electricity, gas, steam and air conditioning supply",1966,minimum,2011
+Apple,Cuba,588,"Agriculture, forestry and fishing",1991,advanced,2012
+Amazon.com,Dominican Republic,589,Mining and quarrying,1992,minimum,2013
+Alphabet,Egypt,590,Manufacturing,1993,minimum,2014
+Microsoft,El Salvador,591,"Electricity, gas, steam and air conditioning supply",1994,advanced,2015
+Facebook,Fiji,592,"Water supply; sewerage, waste management and remediation activities",1995,minimum,2016
+Alibaba,Gambia,593,Construction,1996,minimum,2017
+Berkshire Hathaway,Ghana,594,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,advanced,2018
+Tencent Holdings,Guatemala,595,Transportation and storage,1998,minimum,2019
+JPMorgan Chase,Honduras,596,Accommodation and food service activities,1999,minimum,2006
+ExxonMobil,India,597,Information and communication,2000,advanced,2007
+Johnson & Johnson,Indonesia,598,Financial and insurance activities,2001,minimum,2008
+Samsung Electronics,Jordan,599,Real estate activities,2002,minimum,2009
+Bank of America,Kazakhstan,600,"Professional, scientific and technical activities",2003,advanced,2010
+ICBC,Kyrgyzstan,601,Administrative and support service activities,2004,minimum,2011
+Royal Dutch Shell,Lao People's Democratic Republic,602,Public administration and defence; compulsory social security,2005,minimum,2012
+Visa,Malawi,603,Education,2006,advanced,2013
+Wells Fargo,Maldives,604,Human health and social work activities,2007,minimum,2014
+China Construction Bank,Morocco,605,"Arts, entertainment and recreation",2008,minimum,2015
+Intel,Myanmar,606,Other service activities,2009,advanced,2016
+Chevron,Namibia,607,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,minimum,2017
+Walmart,Nepal,608,Activities of extraterritorial organizations and bodies,2011,minimum,2018
+Nestle,Nicaragua,609,"Agriculture, forestry and fishing",2012,advanced,2019
+UnitedHealth Group,State of Palestine,610,Mining and quarrying,2013,minimum,2006
+Cisco Systems,Panama,611,Manufacturing,2014,minimum,2007
+PetroChina,Philippines,612,"Electricity, gas, steam and air conditioning supply",2015,advanced,2008
+Home Depot,Senegal,613,"Water supply; sewerage, waste management and remediation activities",2016,minimum,2009
+Pfizer,South Sudan,614,Construction,1991,minimum,2010
+Taiwan Semiconductor,Tajikistan,615,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,advanced,2011
+Novartis,Thailand,616,Transportation and storage,1995,minimum,2012
+Mastercard,Tunisia,617,Accommodation and food service activities,1997,minimum,2013
+Verizon Communications,Uzbekistan,618,Information and communication,1999,advanced,2014
+Toyota Motor,Vanuatu,619,Financial and insurance activities,2001,minimum,2015
+HSBC Holdings,Viet Nam,620,Real estate activities,2003,minimum,2016
+Boeing,Afghanistan,621,"Professional, scientific and technical activities",2005,advanced,2017
+AT&T,Armenia,622,Administrative and support service activities,2007,minimum,2018
+China Mobile,Bahrain,623,Public administration and defence; compulsory social security,2009,minimum,2019
+Oracle,Bangladesh,624,Education,2011,advanced,2006
+Roche Holding,Bhutan,625,Human health and social work activities,2013,minimum,2007
+Citigroup,Burkina Faso,626,"Arts, entertainment and recreation",2015,minimum,2008
+Procter & Gamble,Cameroon,627,Other service activities,2017,advanced,2009
+Anheuser-Busch InBev,Chile,628,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,minimum,2010
+Agricultural Bank of China,Colombia,629,Activities of extraterritorial organizations and bodies,1991,minimum,2011
+Ping An Insurance Group,Costa Rica,630,"Agriculture, forestry and fishing",1995,advanced,2012
+Coca-Cola,Cuba,631,Mining and quarrying,1999,minimum,2013
+Total,Dominican Republic,632,Manufacturing,2003,minimum,2014
+AbbVie,Egypt,633,"Electricity, gas, steam and air conditioning supply",2007,advanced,2015
+Merck & Co.,El Salvador,634,"Water supply; sewerage, waste management and remediation activities",2011,minimum,2016
+Bank of China,Fiji,635,Construction,2015,minimum,2017
+Unilever,Gambia,636,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,advanced,2018
+DowDuPont,Ghana,637,Transportation and storage,1980,minimum,2019
+NVIDIA,Guatemala,638,Accommodation and food service activities,1983,minimum,2006
+BP,Honduras,639,Information and communication,1986,advanced,2007
+Walt Disney,India,640,Financial and insurance activities,1989,minimum,2008
+Comcast,Indonesia,641,Real estate activities,1992,minimum,2009
+Kweichow Moutai,Jordan,2500,"Professional, scientific and technical activities",1995,advanced,2010
+Netflix,Kazakhstan,2501,Administrative and support service activities,1998,minimum,2011
+SAP,Kyrgyzstan,2502,Public administration and defence; compulsory social security,2001,minimum,2012
+Sinopec,Lao People's Democratic Republic,2503,Education,2004,advanced,2013
+PepsiCo,Malawi,2504,Human health and social work activities,2007,minimum,2014
+L'Oréal Group,Maldives,2505,"Arts, entertainment and recreation",2010,minimum,2015
+BHP Billiton,Morocco,2506,Other service activities,2013,advanced,2016
+Novo Nordisk,Myanmar,2507,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,minimum,2017
+Medtronic,Namibia,2508,Activities of extraterritorial organizations and bodies,2019,minimum,2018
+Amgen,Nepal,2509,"Agriculture, forestry and fishing",1975,advanced,2019
+Royal Bank of Canada,Nicaragua,2510,Mining and quarrying,1977,minimum,2006
+Naspers,State of Palestine,2511,Manufacturing,1979,minimum,2007
+Siemens,Panama,2512,"Electricity, gas, steam and air conditioning supply",1981,advanced,2008
+China Merchants Bank,Philippines,2513,"Water supply; sewerage, waste management and remediation activities",1983,minimum,2009
+Union Pacific,Senegal,2514,Construction,1985,minimum,2010
+TD Bank Group,South Sudan,2515,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,advanced,2011
+Abbott Laboratories,Tajikistan,2516,Transportation and storage,1989,minimum,2012
+Texas Instruments,Thailand,2517,Accommodation and food service activities,1991,minimum,2013
+Banco Santander,Tunisia,2518,Information and communication,1993,advanced,2014
+Bayer,Uzbekistan,2519,Financial and insurance activities,1995,minimum,2015
+Altria Group,Vanuatu,2520,Real estate activities,1997,minimum,2016
+China Life Insurance,Viet Nam,2521,"Professional, scientific and technical activities",1999,advanced,2017
+Volkswagen Group,Afghanistan,2522,Administrative and support service activities,2001,minimum,2018
+Accenture,Armenia,2523,Public administration and defence; compulsory social security,2003,minimum,2019
+Allianz,Bahrain,2524,Education,2005,advanced,2006
+Broadcom,Bangladesh,2525,Human health and social work activities,2007,minimum,2007
+United Parcel Service,Bhutan,2526,"Arts, entertainment and recreation",2009,minimum,2008
+United Technologies,Burkina Faso,2527,Other service activities,2011,advanced,2009
+Inditex,Cameroon,2528,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,minimum,2010
+Rio Tinto,Chile,10,Activities of extraterritorial organizations and bodies,2015,minimum,2011
+GlaxoSmithKline,Colombia,11,"Agriculture, forestry and fishing",2017,advanced,2012
+Schlumberger,Costa Rica,12,Mining and quarrying,2019,minimum,2013
+Tata Consultancy Services,Cuba,13,Manufacturing,1965,minimum,2014
+Morgan Stanley,Dominican Republic,14,"Electricity, gas, steam and air conditioning supply",1966,advanced,2015
+Apple,Egypt,15,"Agriculture, forestry and fishing",1991,minimum,2016
+Amazon.com,El Salvador,16,Mining and quarrying,1992,minimum,2017
+Alphabet,Fiji,17,Manufacturing,1993,advanced,2018
+Microsoft,Gambia,18,"Electricity, gas, steam and air conditioning supply",1994,minimum,2019
+Facebook,Ghana,19,"Water supply; sewerage, waste management and remediation activities",1995,minimum,2006
+Alibaba,Guatemala,20,Construction,1996,advanced,2007
+Berkshire Hathaway,Honduras,21,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2008
+Tencent Holdings,India,22,Transportation and storage,1998,minimum,2009
+JPMorgan Chase,Indonesia,23,Accommodation and food service activities,1999,advanced,2010
+ExxonMobil,Jordan,24,Information and communication,2000,minimum,2011
+Johnson & Johnson,Kazakhstan,25,Financial and insurance activities,2001,minimum,2012
+Samsung Electronics,Kyrgyzstan,26,Real estate activities,2002,advanced,2013
+Bank of America,Lao People's Democratic Republic,27,"Professional, scientific and technical activities",2003,minimum,2014
+ICBC,Malawi,28,Administrative and support service activities,2004,minimum,2015
+Royal Dutch Shell,Maldives,29,Public administration and defence; compulsory social security,2005,advanced,2016
+Visa,Morocco,30,Education,2006,minimum,2017
+Wells Fargo,Myanmar,31,Human health and social work activities,2007,minimum,2018
+China Construction Bank,Namibia,32,"Arts, entertainment and recreation",2008,advanced,2019
+Intel,Nepal,33,Other service activities,2009,minimum,2006
+Chevron,Nicaragua,34,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,minimum,2007
+Walmart,State of Palestine,35,Activities of extraterritorial organizations and bodies,2011,advanced,2008
+Nestle,Panama,36,"Agriculture, forestry and fishing",2012,minimum,2009
+UnitedHealth Group,Philippines,37,Mining and quarrying,2013,minimum,2010
+Cisco Systems,Senegal,38,Manufacturing,2014,advanced,2011
+PetroChina,South Sudan,39,"Electricity, gas, steam and air conditioning supply",2015,minimum,2012
+Home Depot,Tajikistan,40,"Water supply; sewerage, waste management and remediation activities",2016,minimum,2013
+Pfizer,Thailand,41,Construction,1991,advanced,2014
+Taiwan Semiconductor,Tunisia,42,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2015
+Novartis,Uzbekistan,43,Transportation and storage,1995,minimum,2016
+Mastercard,Vanuatu,44,Accommodation and food service activities,1997,advanced,2017
+Verizon Communications,Viet Nam,45,Information and communication,1999,minimum,2018
+Toyota Motor,Afghanistan,46,Financial and insurance activities,2001,minimum,2019
+HSBC Holdings,Armenia,47,Real estate activities,2003,advanced,2006
+Boeing,Bahrain,48,"Professional, scientific and technical activities",2005,minimum,2007
+AT&T,Bangladesh,49,Administrative and support service activities,2007,minimum,2008
+China Mobile,Bhutan,50,Public administration and defence; compulsory social security,2009,advanced,2009
+Oracle,Burkina Faso,51,Education,2011,minimum,2010
+Roche Holding,Cameroon,52,Human health and social work activities,2013,minimum,2011
+Citigroup,Chile,53,"Arts, entertainment and recreation",2015,advanced,2012
+Procter & Gamble,Colombia,54,Other service activities,2017,minimum,2013
+Anheuser-Busch InBev,Costa Rica,55,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,minimum,2014
+Agricultural Bank of China,Cuba,56,Activities of extraterritorial organizations and bodies,1991,advanced,2015
+Ping An Insurance Group,Dominican Republic,57,"Agriculture, forestry and fishing",1995,minimum,2016
+Coca-Cola,Egypt,58,Mining and quarrying,1999,minimum,2017
+Total,El Salvador,59,Manufacturing,2003,advanced,2018
+AbbVie,Fiji,60,"Electricity, gas, steam and air conditioning supply",2007,minimum,2019
+Merck & Co.,Gambia,61,"Water supply; sewerage, waste management and remediation activities",2011,minimum,2006
+Bank of China,Ghana,62,Construction,2015,advanced,2007
+Unilever,Guatemala,63,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2008
+DowDuPont,Honduras,64,Transportation and storage,1980,minimum,2009
+NVIDIA,India,65,Accommodation and food service activities,1983,advanced,2010
+BP,Indonesia,66,Information and communication,1986,minimum,2011
+Walt Disney,Jordan,67,Financial and insurance activities,1989,minimum,2012
+Comcast,Kazakhstan,68,Real estate activities,1992,advanced,2013
+Kweichow Moutai,Kyrgyzstan,69,"Professional, scientific and technical activities",1995,minimum,2014
+Netflix,Lao People's Democratic Republic,70,Administrative and support service activities,1998,minimum,2015
+SAP,Malawi,71,Public administration and defence; compulsory social security,2001,advanced,2016
+Sinopec,Maldives,72,Education,2004,minimum,2017
+PepsiCo,Morocco,73,Human health and social work activities,2007,minimum,2018
+L'Oréal Group,Myanmar,74,"Arts, entertainment and recreation",2010,advanced,2019
+BHP Billiton,Namibia,75,Other service activities,2013,minimum,2006
+Novo Nordisk,Nepal,76,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,minimum,2007
+Medtronic,Nicaragua,77,Activities of extraterritorial organizations and bodies,2019,advanced,2008
+Amgen,State of Palestine,78,"Agriculture, forestry and fishing",1975,minimum,2009
+Royal Bank of Canada,Panama,79,Mining and quarrying,1977,minimum,2010
+Naspers,Philippines,80,Manufacturing,1979,advanced,2011
+Siemens,Senegal,81,"Electricity, gas, steam and air conditioning supply",1981,minimum,2012
+China Merchants Bank,South Sudan,82,"Water supply; sewerage, waste management and remediation activities",1983,minimum,2013
+Union Pacific,Tajikistan,83,Construction,1985,advanced,2014
+TD Bank Group,Thailand,84,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2015
+Abbott Laboratories,Tunisia,85,Transportation and storage,1989,minimum,2016
+Texas Instruments,Uzbekistan,86,Accommodation and food service activities,1991,advanced,2017
+Banco Santander,Vanuatu,87,Information and communication,1993,minimum,2018
+Bayer,Viet Nam,88,Financial and insurance activities,1995,minimum,2019
+Altria Group,Afghanistan,89,Real estate activities,1997,advanced,2006
+China Life Insurance,Armenia,90,"Professional, scientific and technical activities",1999,minimum,2007
+Volkswagen Group,Bahrain,91,Administrative and support service activities,2001,minimum,2008
+Accenture,Bangladesh,92,Public administration and defence; compulsory social security,2003,advanced,2009
+Allianz,Bhutan,93,Education,2005,minimum,2010
+Broadcom,Burkina Faso,94,Human health and social work activities,2007,minimum,2011
+United Parcel Service,Cameroon,95,"Arts, entertainment and recreation",2009,advanced,2012
+United Technologies,Chile,96,Other service activities,2011,minimum,2013
+Inditex,Colombia,97,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,minimum,2014
+Rio Tinto,Costa Rica,98,Activities of extraterritorial organizations and bodies,2015,advanced,2015
+GlaxoSmithKline,Cuba,99,"Agriculture, forestry and fishing",2017,minimum,2016
+Schlumberger,Dominican Republic,100,Mining and quarrying,2019,minimum,2017
+Tata Consultancy Services,Egypt,101,Manufacturing,1965,advanced,2018
+Morgan Stanley,El Salvador,102,"Electricity, gas, steam and air conditioning supply",1966,minimum,2019
+Apple,Fiji,103,"Agriculture, forestry and fishing",1991,minimum,2006
+Amazon.com,Gambia,104,Mining and quarrying,1992,advanced,2007
+Alphabet,Ghana,105,Manufacturing,1993,minimum,2008
+Microsoft,Guatemala,106,"Electricity, gas, steam and air conditioning supply",1994,minimum,2009
+Facebook,Honduras,107,"Water supply; sewerage, waste management and remediation activities",1995,advanced,2010
+Alibaba,India,108,Construction,1996,minimum,2011
+Berkshire Hathaway,Indonesia,109,Wholesale and retail trade; repair of motor vehicles and motorcycles,1997,minimum,2012
+Tencent Holdings,Jordan,110,Transportation and storage,1998,advanced,2013
+JPMorgan Chase,Kazakhstan,111,Accommodation and food service activities,1999,minimum,2014
+ExxonMobil,Kyrgyzstan,112,Information and communication,2000,minimum,2015
+Johnson & Johnson,Lao People's Democratic Republic,113,Financial and insurance activities,2001,advanced,2016
+Samsung Electronics,Malawi,114,Real estate activities,2002,minimum,2017
+Bank of America,Maldives,115,"Professional, scientific and technical activities",2003,minimum,2018
+ICBC,Morocco,116,Administrative and support service activities,2004,advanced,2019
+Royal Dutch Shell,Myanmar,117,Public administration and defence; compulsory social security,2005,minimum,2006
+Visa,Namibia,118,Education,2006,minimum,2007
+Wells Fargo,Nepal,119,Human health and social work activities,2007,advanced,2008
+China Construction Bank,Nicaragua,120,"Arts, entertainment and recreation",2008,minimum,2009
+Intel,State of Palestine,121,Other service activities,2009,minimum,2010
+Chevron,Panama,122,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,advanced,2011
+Walmart,Philippines,123,Activities of extraterritorial organizations and bodies,2011,minimum,2012
+Nestle,Senegal,124,"Agriculture, forestry and fishing",2012,minimum,2013
+UnitedHealth Group,South Sudan,125,Mining and quarrying,2013,advanced,2014
+Cisco Systems,Tajikistan,126,Manufacturing,2014,minimum,2015
+PetroChina,Thailand,127,"Electricity, gas, steam and air conditioning supply",2015,minimum,2016
+Home Depot,Tunisia,128,"Water supply; sewerage, waste management and remediation activities",2016,advanced,2017
+Pfizer,Uzbekistan,129,Construction,1991,minimum,2018
+Taiwan Semiconductor,Vanuatu,130,Wholesale and retail trade; repair of motor vehicles and motorcycles,1993,minimum,2019
+Novartis,Viet Nam,131,Transportation and storage,1995,advanced,2006
+Mastercard,Afghanistan,132,Accommodation and food service activities,1997,minimum,2007
+Verizon Communications,Armenia,133,Information and communication,1999,minimum,2008
+Toyota Motor,Bahrain,134,Financial and insurance activities,2001,advanced,2009
+HSBC Holdings,Bangladesh,135,Real estate activities,2003,minimum,2010
+Boeing,Bhutan,136,"Professional, scientific and technical activities",2005,minimum,2011
+AT&T,Burkina Faso,137,Administrative and support service activities,2007,advanced,2012
+China Mobile,Cameroon,138,Public administration and defence; compulsory social security,2009,minimum,2013
+Oracle,Chile,139,Education,2011,minimum,2014
+Roche Holding,Colombia,140,Human health and social work activities,2013,advanced,2015
+Citigroup,Costa Rica,141,"Arts, entertainment and recreation",2015,minimum,2016
+Procter & Gamble,Cuba,142,Other service activities,2017,minimum,2017
+Anheuser-Busch InBev,Dominican Republic,143,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,advanced,2018
+Agricultural Bank of China,Egypt,144,Activities of extraterritorial organizations and bodies,1991,minimum,2019
+Ping An Insurance Group,El Salvador,145,"Agriculture, forestry and fishing",1995,minimum,2006
+Coca-Cola,Fiji,146,Mining and quarrying,1999,advanced,2007
+Total,Gambia,147,Manufacturing,2003,minimum,2008
+AbbVie,Ghana,148,"Electricity, gas, steam and air conditioning supply",2007,minimum,2009
+Merck & Co.,Guatemala,149,"Water supply; sewerage, waste management and remediation activities",2011,advanced,2010
+Bank of China,Honduras,150,Construction,2015,minimum,2011
+Unilever,India,151,Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,minimum,2012
+DowDuPont,Indonesia,152,Transportation and storage,1980,advanced,2013
+NVIDIA,Jordan,153,Accommodation and food service activities,1983,minimum,2014
+BP,Kazakhstan,154,Information and communication,1986,minimum,2015
+Walt Disney,Kyrgyzstan,155,Financial and insurance activities,1989,advanced,2016
+Comcast,Lao People's Democratic Republic,156,Real estate activities,1992,minimum,2017
+Kweichow Moutai,Malawi,157,"Professional, scientific and technical activities",1995,minimum,2018
+Netflix,Maldives,158,Administrative and support service activities,1998,advanced,2019
+SAP,Morocco,159,Public administration and defence; compulsory social security,2001,minimum,2006
+Sinopec,Myanmar,160,Education,2004,minimum,2007
+PepsiCo,Namibia,161,Human health and social work activities,2007,advanced,2008
+L'Oréal Group,Nepal,162,"Arts, entertainment and recreation",2010,minimum,2009
+BHP Billiton,Nicaragua,163,Other service activities,2013,minimum,2010
+Novo Nordisk,State of Palestine,164,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,advanced,2011
+Medtronic,Panama,165,Activities of extraterritorial organizations and bodies,2019,minimum,2012
+Amgen,Philippines,166,"Agriculture, forestry and fishing",1975,minimum,2013
+Royal Bank of Canada,Senegal,167,Mining and quarrying,1977,advanced,2014
+Naspers,South Sudan,168,Manufacturing,1979,minimum,2015
+Siemens,Tajikistan,169,"Electricity, gas, steam and air conditioning supply",1981,minimum,2016
+China Merchants Bank,Thailand,170,"Water supply; sewerage, waste management and remediation activities",1983,advanced,2017
+Union Pacific,Tunisia,171,Construction,1985,minimum,2018
+TD Bank Group,Uzbekistan,172,Wholesale and retail trade; repair of motor vehicles and motorcycles,1987,minimum,2019
+Abbott Laboratories,Vanuatu,173,Transportation and storage,1989,advanced,2006
+Texas Instruments,Viet Nam,174,Accommodation and food service activities,1991,minimum,2007
+Banco Santander,Afghanistan,175,Information and communication,1993,minimum,2008
+Bayer,Armenia,176,Financial and insurance activities,1995,advanced,2009
+Altria Group,Bahrain,177,Real estate activities,1997,minimum,2010
+China Life Insurance,Bangladesh,178,"Professional, scientific and technical activities",1999,minimum,2011
+Volkswagen Group,Bhutan,179,Administrative and support service activities,2001,advanced,2012
+Accenture,Burkina Faso,180,Public administration and defence; compulsory social security,2003,minimum,2013
+Allianz,Cameroon,181,Education,2005,minimum,2014
+Broadcom,Chile,182,Human health and social work activities,2007,advanced,2015
+United Parcel Service,Colombia,183,"Arts, entertainment and recreation",2009,minimum,2016
+United Technologies,Costa Rica,184,Other service activities,2011,minimum,2017
+Inditex,Cuba,185,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,advanced,2018
+Rio Tinto,Dominican Republic,186,Activities of extraterritorial organizations and bodies,2015,minimum,2019
+GlaxoSmithKline,Egypt,187,"Agriculture, forestry and fishing",2017,minimum,2006
+Schlumberger,El Salvador,188,Mining and quarrying,2019,advanced,2007
+Tata Consultancy Services,Fiji,189,Manufacturing,1965,minimum,2008
+Morgan Stanley,Gambia,190,"Electricity, gas, steam and air conditioning supply",1966,minimum,2009
